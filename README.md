@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=swp1017&show_icons=true&hide_border=true)](https://github.com/swp1017)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swp1017&layout=compact)](https://github.com/swp1017)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=C&logoColor=white"/></a>
