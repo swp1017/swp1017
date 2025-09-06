@@ -28,7 +28,7 @@
 <hr>
 
 <br>
-💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
+💡 I majored in
 
 ***Department of Software*** <span style="color: #ADADAD">*@Gachon Univ*</span>
 
